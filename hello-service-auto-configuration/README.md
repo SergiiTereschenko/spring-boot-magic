@@ -1,4 +1,4 @@
-# Unravelling the magic behind Spring Boot
+# Magic behind Spring Boot
 
 Source code for Devoxx talk - _It's a kind of magic: under the covers of Spring Boot by Stéphane Nicoll & Andy Wilkinson_
 
